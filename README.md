@@ -11,6 +11,7 @@
 
 - 👯 I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: devalexander19@gmail.com
+- 💻 Over 6 years of professional experience
 
 ### 🚀 Front-End Technologies
 
@@ -46,16 +47,22 @@
 ### ⚡️ Back-End Technologies
 
 <p>
+    <img src="https://img.shields.io/badge/php-%23404d59.svg?style=for-the-badge&logo=php">
+    <img src="https://img.shields.io/badge/laravel-%23404d59.svg?style=for-the-badge&logo=laravel">
+    <img src="https://img.shields.io/badge/mongodb-%23404d59.svg?style=for-the-badge&logo=mongodb">
+    <img src="https://img.shields.io/badge/redis-%23404d59.svg?style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
-    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo    =ruby&logoColor=white">
+    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
 </p>
 
 ### 💻 Cloud and Hosting
 
 <p>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/amazon-s3-50952e.svg?style=for-the-badge&logo=amazon-s3&logoColor=white">
+    <img src="https://img.shields.io/badge/amazon-lambda-e77a0a.svg?style=for-the-badge&logo=aws-lambda&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
