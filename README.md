@@ -8,10 +8,9 @@
       "time zone": "GMT (GMT-6)",
  }
 ```
-
-- 👯 I’m looking to collaborate on Open Source projects
+- Senior Full Stack Software Engineer
+- 💻 Over 8 years of professional experience
 - 📫 How to reach me: devalexander19@gmail.com
-- 💻 Over 6 years of professional experience
 
 ### 🚀 Front-End Technologies
 
